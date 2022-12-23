@@ -59,7 +59,7 @@ In this section, we will scrape Amazon reviews for a specific product using the 
 - `Summary` : The reduced or the lemmatized form of the review
 - `Text` : The review which the user makes on the product
 
-DataSet  --> https://drive.google.com/file/d/1Q60hjwFgOtvAtbfdwXE--A7lflDfZ0WT/view?usp=sharing
+### [DataSet](https://drive.google.com/file/d/1Q60hjwFgOtvAtbfdwXE--A7lflDfZ0WT/view?usp=sharing)
 
 ### Data Preprocessing
 In this section, we will preprocess the data by performing the following tasks:
